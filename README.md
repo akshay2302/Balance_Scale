@@ -1,2 +1,4 @@
-# ML_Project15-Balance-Scale-
-information about balance scale
+# Balance Scale Data Set
+
+Data Set Information:
+This data set was generated to model psychological experimental results. Each example is classified as having the balance scale tip to the right, tip to the left, or be balanced. The attributes are the left weight, the left distance, the right weight, and the right distance. The correct way to find the class is the greater of (left-distance * left-weight) and (right-distance * right-weight). If they are equal, it is balanced.
